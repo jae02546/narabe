@@ -1,0 +1,56 @@
+[
+  {
+    "fNo": 1000000,
+    "name": "文学・歴史",
+    "kana": "",
+    "english": "",
+    "info1": "",
+    "info2": "",
+    "info3": ""
+  },
+  {
+    "fNo": 2000000,
+    "name": "理科・数学",
+    "kana": "",
+    "english": "",
+    "info1": "",
+    "info2": "",
+    "info3": ""
+  },
+  {
+    "fNo": 3000000,
+    "name": "社会・地理",
+    "kana": "",
+    "english": "",
+    "info1": "",
+    "info2": "",
+    "info3": ""
+  },
+  {
+    "fNo": 4000000,
+    "name": "スポーツ",
+    "kana": "",
+    "english": "",
+    "info1": "",
+    "info2": "",
+    "info3": ""
+  },
+  {
+    "fNo": 5000000,
+    "name": "エンタメ",
+    "kana": "",
+    "english": "",
+    "info1": "",
+    "info2": "",
+    "info3": ""
+  },
+  {
+    "fNo": 6000000,
+    "name": "IT・鉄道・生活・雑学",
+    "kana": "",
+    "english": "",
+    "info1": "",
+    "info2": "",
+    "info3": ""
+  }
+]
